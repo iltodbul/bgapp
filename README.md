@@ -1,3 +1,1 @@
-My BGApp Project
-This repository is a lab project developed as part of the "DevOps and Cloud" Upskill program at SoftUni.
-The project demonstrates practical DevOps concepts and cloud technologies in action.
+This repository is a lab project for SoftUni's "DevOps and Cloud" Upskill program, showcasing practical DevOps concepts, containerization, and cloud technologies.
